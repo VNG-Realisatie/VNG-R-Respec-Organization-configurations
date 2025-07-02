@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Architectuur | Robert Melskens |
+<hr/>
+
 # LET OP! Verwijder deze repository niet, tenzij...
 
 Deze repository bevat 2 folders die met hun inhoud van belang zijn bij het renderen van Respec documentatie in andere repositories:
